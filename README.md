@@ -26,20 +26,29 @@ High-level pipeline:
 4) **Fine refinement**: ICP on full cloud
 5) **Ambiguity Reduction (optional)**: evaluate 180° symmetric hypothesis and choose the lowest residual
 
+![OBB-TM Pipeline](docs/figures/Algorithm_Flowchart.png)
+![Oriented Bounding Box](docs/figures/AABB_vs_OBB_for_Envisat.png)
+![Ambiguity Reduction](docs/figures/TDRS_Success_Rate(AR_vs_NoAR)_Angular_Resolution0_5.png)
+
 ## Simulation campaign
 - Distances: **20–120 m**
 - Angular resolutions: **0.1°, 0.2°, 0.5°, 1.0°**
 - Targets: **Envisat (asymmetric), TDRS (Y-axis symmetric), Dawn (X-axis symmetric)**
 - Success criteria: **translation error < 0.2 m** AND **attitude error < 5°**
 
+![Targets](docs/figures/Base_Point_Clouds_of_Targets.png)
+
 ## Key results (high level)
 - Envisat: near-saturation performance at fine resolutions; close-range anomaly due to FOV/occlusion effects
 - TDRS: high baseline SR; Ambiguity Reduction provides measurable gains in mid/low resolution regimes
 - Dawn: SR ceiling due to geometry + sparsity; AR improvements are marginal
 
+![Results](docs/figures/Success_Rate_vs_Sensor_Resolution.png) 
+![Results](docs/figures/TDRS_Success_Rate(AR_vs_NoAR)_Angular_Resolution0_5.png)
+
 ## Documents
-- **2-page abstract**: `docs/Thesis_Abstract_2p.pdf`
-- **Slides**: `docs/Presentation.pdf`
+- **2-page abstract**: - 📄 [2-page Technical Abstract](docs/Thesis_Abstract_2p.pdf)
+- **Slides**: - 📄 [Power Point Presentation](docs/Presentation.pdf)
 - (Optional) **Technical Summary (10–20 pages)**: `docs/Thesis_Technical_Summary.pdf`
 
 ## Keywords
