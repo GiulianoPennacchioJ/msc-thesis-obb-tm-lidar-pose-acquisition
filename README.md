@@ -1,1 +1,1 @@
-# msc-thesis-obb-tm-lidar-pose-acquisitio
+# msc-thesis-obb-tm-lidar-pose-acquisition
