@@ -1,1 +1,1 @@
-# msc-thesis-orbital-robotics
+# msc-thesis-obb-tm-lidar-pose-acquisitio
