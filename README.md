@@ -49,7 +49,7 @@ High-level pipeline:
 ## Documents
 - **2-page abstract**: - 📄 [2-page Technical Abstract](docs/Thesis_Abstract_2p.pdf)
 - **Slides**: - 📄 [Power Point Presentation](docs/Presentation.pdf)
-- (Optional) **Technical Summary (10–20 pages)**: `docs/Thesis_Technical_Summary.pdf`
+- **19-page Thesis Technical Summary**: -📄 [19-page Technical Summary](docs/Technical_Summary.pdf)
 
 ## Keywords
 Non-Cooperative Pose Estimation · LiDAR Point Cloud Registration · PCA · Template Matching · ICP · Ambiguity Reduction
