@@ -1,5 +1,3 @@
-# msc-thesis-obb-tm-lidar-pose-acquisition
-
 # LiDAR-based Pose Acquisition for Non-Cooperative Space Targets (OBB-TM)
 
 ## Overview
